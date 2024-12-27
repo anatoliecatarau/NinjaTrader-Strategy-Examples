@@ -19,3 +19,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+DISCLAIMER:
+This repository provides example strategies using TradingDJ indicators for NinjaTrader 8. These examples are for educational purposes only and are provided "AS IS" without any guarantees or warranties. Futures and forex trading contains substantial risk and is not suitable for every investor. Any trading decisions made based on these examples are done at the trader's own risk. Past performance is not indicative of future results. See README.md for full disclaimer.
